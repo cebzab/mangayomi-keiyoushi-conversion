@@ -1,62 +1,54 @@
 {
-  "name": "Keiyoushi Conversion",
-  "repositoryUrl": "https://github.com/cebzab/mangayomi-keiyoushi-conversion",
+  "repository": "Keiyoushi Conversion",
   "version": 1,
-  "extensions": [
+  "sources": [
     {
+      "id": "asurascans.en",
       "name": "AsuraScans",
-      "pkg": "asurascans.en",
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "nsfw": false,
-      "sourceUrl": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/asurascans.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/asurascans.py"
     },
     {
+      "id": "mangahub.en",
       "name": "MangaHub",
-      "pkg": "mangahub.en",
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "nsfw": false,
-      "sourceUrl": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/mangahub.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/mangahub.py"
     },
     {
+      "id": "mangapark.en",
       "name": "MangaPark",
-      "pkg": "mangapark.en",
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "nsfw": false,
-      "sourceUrl": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/mangapark.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/mangapark.py"
     },
     {
+      "id": "manhuaplus.en",
       "name": "ManhuaPlus",
-      "pkg": "manhuaplus.en",
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "nsfw": false,
-      "sourceUrl": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/manhuaplus.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/manhuaplus.py"
     },
     {
+      "id": "genztoons.en",
       "name": "GenzToons",
-      "pkg": "genztoons.en",
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "nsfw": false,
-      "sourceUrl": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/genztoons.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/genztoons.py"
     },
     {
+      "id": "weebcentral.en",
       "name": "WeebCentral",
-      "pkg": "weebcentral.en",
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "nsfw": false,
-      "sourceUrl": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/weebcentral.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/weebcentral.py"
     }
   ]
 }
-
