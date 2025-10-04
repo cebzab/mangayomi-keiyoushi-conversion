@@ -1,0 +1,55 @@
+{
+"name": "Keiyoushi Mangayomi Conversion",
+"version": 1,
+"language": "en",
+"sources": [
+{
+"id": "asurascans",
+"name": "AsuraScans",
+"lang": "en",
+"version": 1,
+"type": "manga",
+"url": "src/asurascans.py"
+},
+{
+"id": "mangahub",
+"name": "MangaHub",
+"lang": "en",
+"version": 1,
+"type": "manga",
+"url": "src/mangahub.py"
+},
+{
+"id": "mangapark",
+"name": "MangaPark",
+"lang": "en",
+"version": 1,
+"type": "manga",
+"url": "src/mangapark.py"
+},
+{
+"id": "manhuaplus",
+"name": "ManhuaPlus",
+"lang": "en",
+"version": 1,
+"type": "manga",
+"url": "src/manhuaplus.py"
+},
+{
+"id": "genztoons",
+"name": "GenzToons",
+"lang": "en",
+"version": 1,
+"type": "manga",
+"url": "src/genztoons.py"
+},
+{
+"id": "weebcentral",
+"name": "WeebCentral",
+"lang": "en",
+"version": 1,
+"type": "manga",
+"url": "src/weebcentral.py"
+}
+]
+}
