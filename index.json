@@ -8,47 +8,8 @@
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/asurascans.py"
-    },
-    {
-      "id": "mangahub.en",
-      "name": "MangaHub",
-      "lang": "en",
-      "type": "manga",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/mangahub.py"
-    },
-    {
-      "id": "mangapark.en",
-      "name": "MangaPark",
-      "lang": "en",
-      "type": "manga",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/mangapark.py"
-    },
-    {
-      "id": "manhuaplus.en",
-      "name": "ManhuaPlus",
-      "lang": "en",
-      "type": "manga",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/manhuaplus.py"
-    },
-    {
-      "id": "genztoons.en",
-      "name": "GenzToons",
-      "lang": "en",
-      "type": "manga",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/genztoons.py"
-    },
-    {
-      "id": "weebcentral.en",
-      "name": "WeebCentral",
-      "lang": "en",
-      "type": "manga",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/weebcentral.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/asurascans.dart"
     }
   ]
 }
+
