@@ -1,3 +1,9 @@
+# Mangayomi Extension
+# name: AsuraScans
+# lang: en
+# type: manga
+# version: 1
+
 import requests
 
 
