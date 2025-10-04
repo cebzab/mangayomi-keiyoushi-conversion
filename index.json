@@ -8,7 +8,7 @@
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/asurascans.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/asurascans.py"
     },
     {
       "id": "mangahub.en",
@@ -16,7 +16,7 @@
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/mangahub.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/mangahub.py"
     },
     {
       "id": "mangapark.en",
@@ -24,7 +24,7 @@
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/mangapark.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/mangapark.py"
     },
     {
       "id": "manhuaplus.en",
@@ -32,7 +32,7 @@
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/manhuaplus.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/manhuaplus.py"
     },
     {
       "id": "genztoons.en",
@@ -40,7 +40,7 @@
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/genztoons.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/genztoons.py"
     },
     {
       "id": "weebcentral.en",
@@ -48,7 +48,7 @@
       "lang": "en",
       "type": "manga",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/main/src/weebcentral.py"
+      "url": "https://raw.githubusercontent.com/cebzab/mangayomi-keiyoushi-conversion/repo/src/weebcentral.py"
     }
   ]
 }
